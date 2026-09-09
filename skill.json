@@ -1,0 +1,15 @@
+{
+  "name": "genpark-hidden-markov-model-viterbi-decoder-skill",
+  "version": "1.0.0",
+  "description": "Hidden Markov Model Viterbi dynamic programming MAP decoder.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "hmm",
+    "hidden-markov-model",
+    "viterbi-algorithm",
+    "dynamic-programming",
+    "sequence-decoding"
+  ]
+}
